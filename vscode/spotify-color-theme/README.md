@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "spotify-color-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Spotify Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Color scheme inspired by the Spotify theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#Installing
+This extension is available for free in the Visual Studio Code Marketplace
 
-**Enjoy!**
+#Improvements
+Have you identified any bugs or improvements? Contact me or feel free to change the project at GitHub
+
+#Customization
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
+
+#Credits
+Spotify
