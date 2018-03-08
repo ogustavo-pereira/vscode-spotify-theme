@@ -2,10 +2,59 @@
 	"name": "spotify-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#191414",
+		"editor.background": "#313336",
 		"editor.foreground": "#fff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+	
+		
+		// Activity Bar
+		"activityBar.background": "#191414",
+		"activityBar.foreground": "#fff",
+		"activityBar.dropBackground": "#958793",
+		"activityBarBadge.background": "#1db954",
+		"activityBarBadge.foreground": "#fff",
+
+
+		//SideBar
+		"sideBar.background": "#272727",
+		"sideBar.foreground": "#747474",
+		"sideBarTitle.foreground": "#FFF",
+		"sideBarSectionHeader.foreground": "#FFF",
+		"sideBarSectionHeader.background": "#272727",
+		"sideBar.border": "#313336",
+		// Lists and Trees
+
+		"list.activeSelectionBackground": "#313336",
+		"list.activeSelectionForeground": "#fff",
+		//"list.dropBackground": "",
+		"list.hoverBackground": "#313336",
+		"list.hoverForeground": "#fff",
+		"list.focusBackground": "#313336",
+		"list.focusForeground": "#fff",
+		"list.inactiveSelectionBackground": "#313336",
+		"list.inactiveSelectionForeground": "#fff",
+		"list.highlightForeground": "#fff",
+		"list.inactiveFocusBackground": "#313336",
+		"list.inactiveFocusForeground": "#fff",
+		//"list.invalidItemForeground": "",
+		
+
+		// Status Bar
+		"statusBar.foreground": "#FFF",
+		"statusBar.background": "#272727",
+		"statusBarItem.hoverBackground": "#1db954",
+		"statusBar.border": "#191414",
+		"statusBar.debuggingBackground": "#1db954",
+		"statusBar.noFolderBackground": "#272727",
+
+
+
+
+		// Debug
+		"debugToolBar.background": "#272727"
+		// "debugExceptionWidget.background": "",
+		// "debugExceptionWidget.border": "",
+
+
 	},
 	"tokenColors": [
 		{
