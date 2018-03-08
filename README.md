@@ -1,5 +1,7 @@
 # Spotify Color Theme for Editor \o/
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is amazing haha!!!
 
 ![Credits http://chrs.cblls.com/tag:spotify](https://github.com/oguhpereira/spotify-theme/blob/master/assets/sadify.gif)
