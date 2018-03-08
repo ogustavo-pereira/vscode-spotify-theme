@@ -1,5 +1,7 @@
 ## Spotify Theme
 
+![Spotify color theme](https://github.com/oguhpereira/spotify-theme/blob/master/vscode/spotify-color-theme/assets/icon.png)
+
 Color scheme inspired by the Spotify theme.
 
 # Installing
