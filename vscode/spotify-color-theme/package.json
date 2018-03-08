@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "publisher": "oguhpereira",
     "engines": {
-        "vscode": "^1.21.0"
+        "vscode": "^1.2.0"
     },
     "categories": [
         "Themes"
