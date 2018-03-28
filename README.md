@@ -10,4 +10,7 @@ I'm Creating color schemes inspired by spotify. If you have any question and you
 ## Credits
 
 [Spotify](https://www.spotify.com/pl/)
+
+
+
 ![Credits Bjorn Lindberg](https://github.com/oguhpereira/spotify-theme/blob/master/assets/spotify-logo2.gif)
