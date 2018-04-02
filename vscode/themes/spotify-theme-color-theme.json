@@ -2,12 +2,12 @@
 	"name": "spotify-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#313336",
+		"editor.background": "#181818",
 		"editor.foreground": "#fff",
-	
-		
+
+
 		// Activity Bar
-		"activityBar.background": "#191414",
+		"activityBar.background": "#121212",
 		"activityBar.foreground": "#fff",
 		"activityBar.dropBackground": "#958793",
 		"activityBarBadge.background": "#1db954",
@@ -15,34 +15,36 @@
 
 
 		//SideBar
-		"sideBar.background": "#272727",
+		"sideBar.background": "#121212",
 		"sideBar.foreground": "#747474",
 		"sideBarTitle.foreground": "#FFF",
 		"sideBarSectionHeader.foreground": "#FFF",
 		"sideBarSectionHeader.background": "#272727",
-		"sideBar.border": "#313336",
+		"sideBar.border": "#181818",
+
+
 		// Lists and Trees
 
-		"list.activeSelectionBackground": "#313336",
+		"list.activeSelectionBackground": "#1E813F",
 		"list.activeSelectionForeground": "#fff",
-		//"list.dropBackground": "",
-		"list.hoverBackground": "#313336",
+		//"list.dropBackground": "#2AB759",
+		"list.hoverBackground": "#1E813F",
 		"list.hoverForeground": "#fff",
-		"list.focusBackground": "#313336",
+		"list.focusBackground": "#1db954",
 		"list.focusForeground": "#fff",
-		"list.inactiveSelectionBackground": "#313336",
+		"list.inactiveSelectionBackground": "#1E813F",
 		"list.inactiveSelectionForeground": "#fff",
 		"list.highlightForeground": "#fff",
-		"list.inactiveFocusBackground": "#313336",
+		"list.inactiveFocusBackground": "#121212",
 		"list.inactiveFocusForeground": "#fff",
 		//"list.invalidItemForeground": "",
-		
+		"dropdown.listBackground": "#282828",
 
 		// Status Bar
 		"statusBar.foreground": "#FFF",
 		"statusBar.background": "#272727",
 		"statusBarItem.hoverBackground": "#1db954",
-		"statusBar.border": "#191414",
+		"statusBar.border": "#1db954",
 		"statusBar.debuggingBackground": "#1db954",
 		"statusBar.noFolderBackground": "#272727",
 
@@ -71,7 +73,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#fff"
 			}
 		},
 		{
