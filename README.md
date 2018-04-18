@@ -1,6 +1,6 @@
 ## Spotify Theme
 
-![Spotify color theme](https://github.com/oguhpereira/spotify-theme/blob/master/vscode/spotify-color-theme/assets/icon.png)
+![Spotify color theme](https://github.com/oguhpereira/spotify-theme/blob/master/assets/screenshot.png)
 
 Color scheme inspired by the Spotify theme.
 
