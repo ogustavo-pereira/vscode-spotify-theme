@@ -1,16 +1,17 @@
-# Spotify Color Theme :smile:
-> This color theme have to [vscode](https://code.visualstudio.com/)
+## Spotify Theme
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Spotify color theme](https://github.com/oguhpereira/spotify-theme/blob/master/vscode/spotify-color-theme/assets/icon.png)
 
-## Spotify Color theme for editor
+Color scheme inspired by the Spotify theme.
 
-I'm Creating color schemes inspired by spotify. If you have any question and you want reporter any bug create a issue :)
+# Installing
+This extension is available for free in the Visual Studio Code Marketplace
 
-## Credits
+# Improvements
+Have you identified any bugs or improvements? Contact me or feel free to change the project at GitHub
 
-[Spotify](https://www.spotify.com/pl/)
+# Customization
+If you are using VSCode 1.0+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
 
-
-
-![Credits Bjorn Lindberg](https://github.com/oguhpereira/spotify-theme/blob/master/assets/spotify-logo2.gif)
+# Credits
+Spotify
