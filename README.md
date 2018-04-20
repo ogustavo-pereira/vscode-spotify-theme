@@ -5,7 +5,7 @@
 Color scheme inspired by the Spotify theme.
 
 # Installing
-This extension is available for free in the Visual Studio Code Marketplace
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme)
 
 # Improvements
 Have you identified any bugs or improvements? Contact me or feel free to change the project at GitHub
