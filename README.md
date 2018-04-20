@@ -14,4 +14,4 @@ Have you identified any bugs or improvements? Contact me or feel free to change 
 If you are using VSCode 1.0+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
 
 # Credits
-Spotify
+[Spotify](https://www.spotify.com/)
