@@ -8,7 +8,6 @@
 		"editor.foreground": "#fff",
 
 
-		// Activity Bar
 		"activityBar.background": "#121212",
 		"activityBar.foreground": "#fff",
 		"activityBar.dropBackground": "#958793",
@@ -16,7 +15,7 @@
 		"activityBarBadge.foreground": "#fff",
 
 
-		//SideBar
+
 		"sideBar.background": "#121212",
 		"sideBar.foreground": "#747474",
 		"sideBarTitle.foreground": "#FFF",
@@ -25,11 +24,10 @@
 		"sideBar.border": "#181818",
 
 
-		// Lists and Trees
-
+	
 		"list.activeSelectionBackground": "#282828",
 		"list.activeSelectionForeground": "#fff",
-		//"list.dropBackground": "#282828",
+		"list.dropBackground": "#282828",
 		"list.hoverBackground": "#282828",
 		"list.hoverForeground": "#fff",
 		"list.focusBackground": "#282828",
@@ -38,11 +36,10 @@
 		"list.inactiveSelectionForeground": "#fff",
 		"list.highlightForeground": "#fff",
 		"list.inactiveFocusBackground": "#121212",
-		"list.inactiveFocusForeground": "#fff",
-		//"list.invalidItemForeground": "",
+
 		"dropdown.listBackground": "#282828",
 
-		// Status Bar
+	
 		"statusBar.foreground": "#FFF",
 		"statusBar.background": "#272727",
 		"statusBarItem.hoverBackground": "#272727",
@@ -50,31 +47,33 @@
 		"statusBar.debuggingBackground": "#1db954",
 		"statusBar.noFolderBackground": "#272727",
 
-		//titlebar
+		
 		"titleBar.activeBackground": "#21222C",
-    "titleBar.activeForeground": "#F8F8F2",
-    "titleBar.inactiveBackground": "#191A21",
-    "titleBar.inactiveForeground": "#6272A4",
+    	"titleBar.activeForeground": "#F8F8F2",
+    	"titleBar.inactiveBackground": "#191A21",
+    	"titleBar.inactiveForeground": "#6272A4",
 
 		"pickerGroup.border": "#BD93F9",
-	  "pickerGroup.foreground": "#8BE9FD",
-	  "debugToolBar.background": "#21222C",
-	  "welcomePage.buttonBackground": null,
-	  "welcomePage.buttonHoverBackground": null,
-	  "walkThrough.embeddedEditorBackground": "#21222C",
+		"pickerGroup.foreground": "#8BE9FD",
+	  	"debugToolBar.background": "#21222C",
+	  	"welcomePage.buttonBackground": "#1db954",
+	  	"welcomePage.buttonHoverBackground": "#1E813F",
+	  	"walkThrough.embeddedEditorBackground": "#21222C",
 
-		"button.background": "#4f4f4f",
+		"button.background": "#1C1C1C",
 		"button.foreground": "#f6f6f4",
-		"button.hoverBackground": null,
-		"dropdown.background": "#343746",
-		"dropdown.border": "#191a21",
+		
+		"dropdown.background": "#282828",
+		"dropdown.border": "#21222C",
 		"dropdown.foreground": "#f6f6f4",
 
+		
 
+		"notifications.background":"#1db954",
+		"notifications.foreground":"#f6f6f4",
+		"notificationCenterHeader.background":"#1C1C1C",
 
-		// Debug
-		"debugToolBar.background": "#272727"
-
+		
 	},
 	"tokenColors": [
 			{
@@ -335,7 +334,6 @@
 					],
 					"settings": {
 							"foreground": "#8BE9FD",
-							"fontStyle": "normal"
 					}
 			},
 			{
@@ -545,7 +543,6 @@
 							"variable.other.predefined"
 					],
 					"settings": {
-							"fontStyle": "regular",
 							"foreground": "#BD93F9"
 					}
 			},
@@ -556,7 +553,7 @@
 							"support.type.property-name"
 					],
 					"settings": {
-							"fontStyle": "regular"
+						
 					}
 			},
 			{
@@ -675,7 +672,6 @@
 							"source.groovy storage.type.def"
 					],
 					"settings": {
-							"fontStyle": "regular",
 							"foreground": "#FF79C6"
 					}
 			},
@@ -855,7 +851,6 @@
 							"meta.variable.assignment.destructured.object.coffee variable variable"
 					],
 					"settings": {
-							"fontStyle": "normal",
 							"foreground": "#F8F8F2"
 					}
 			},
@@ -923,7 +918,6 @@
 							"support.constant"
 					],
 					"settings": {
-							"fontStyle": "normal",
 							"foreground": "#BD93F9"
 					}
 			},
