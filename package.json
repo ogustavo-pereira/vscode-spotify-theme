@@ -1,31 +1,21 @@
 {
     "name": "spotify-color-theme",
     "displayName": "Spotify Color Theme",
-    "description": "Spotify Color theme for vscode",
-    "version": "0.1.0",
+    "description": "Color inspired by Spotify",
+    "version": "0.0.1",
     "publisher": "oguhpereira",
     "engines": {
-        "vscode": "^1.2.0"
+        "vscode": "^1.21.0"
     },
     "categories": [
         "Themes"
     ],
-    "keywords": [
-        "spotify",
-        "theme",
-        "dark"
-    ],
-    "icon": "icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/oguhpereira/spotify-theme/tree/master/vscode/spotify-color-theme"
-    },
     "contributes": {
         "themes": [
             {
-                "label": "spotify-theme",
+                "label": "Spotify",
                 "uiTheme": "vs-dark",
-                "path": "./themes/spotify-theme-color-theme.json"
+                "path": "./themes/Spotify-color-theme.json"
             }
         ]
     }
