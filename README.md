@@ -21,4 +21,4 @@ If you are using VSCode 1.2+ versions you can customize the colors to your likin
 
 ## Lisense
 
-[MIT License](./LICENSE)
+MIT License
