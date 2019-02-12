@@ -1,4 +1,4 @@
-## Spotify Theme
+## Spotify Theme for Visual Studio Code
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
 
