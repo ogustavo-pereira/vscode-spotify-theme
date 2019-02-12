@@ -16,6 +16,10 @@
         "dark","Spotify","spotify-theme"
         ],
         "icon": "icon.png",
+        "galleryBanner": {
+            "color": "#181413",
+            "theme": "dark"
+        },
         "repository": {
         "type": "git",
         "url": "https://github.com/oguhpereira/vscode-spotify-theme"
