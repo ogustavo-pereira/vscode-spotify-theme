@@ -57,11 +57,16 @@
 		"notificationCenterHeader.foreground":"#b3b3b3",
 		"notificationCenterHeader.background":"#121212",
 
-
 		"editorGroup.background":"#212121",
 		"editorGroup.border":"#1db954",
 		"editorGroup.dropBackground":"#212121",
-		"tab.activeBackground":"#212121"
+        "tab.activeBackground":"#212121",
+        
+        "button.background": "#535353",
+        "button.foreground": "#fff",
+
+        "titleBar.activeBackground": "#212121",
+        "titleBar.inactiveBackground": "#535353",
 
 
 	},
