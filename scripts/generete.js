@@ -13,7 +13,7 @@ const tinycolor = require('tinycolor2');
 
 /**
  * @typedef {Object} Theme - Parsed theme object.
- * @prop {Record<'base'|'ansi'|'brightOther'|'other', string[]>} dracula - Dracula color variables.
+ * @prop {Record<'base'|'ansi'|'brightOther'|'other', string[]>} spotify - Dracula color variables.
  * @prop {Record<string, string|null|undefined>} colors - VSCode color mapping.
  * @prop {TokenColor[]} tokenColors - Textmate token colors.
  */
@@ -36,8 +36,8 @@ const schema = Schema.create([withAlphaType]);
  */
 const transformSoft = (yamlContent, yamlObj) => {
     const brightColors = [
-        ...yamlObj.dracula.ansi,
-        ...yamlObj.dracula.brightOther,
+        ...yamlObj.spotify.ansi,
+        ...yamlObj.spotify.brightOther,
     ];
     return load(
         yamlContent.replace(/#[0-9A-F]{6}/g, color => {
@@ -54,7 +54,7 @@ const transformSoft = (yamlContent, yamlObj) => {
 
 module.exports = async () => {
     const yamlFile = await readFile(
-        join(__dirname, '..', 'src', 'dracula.yml'),
+        join(__dirname, '..', 'src', 'spotify.yml'),
         'utf-8'
     );
 
