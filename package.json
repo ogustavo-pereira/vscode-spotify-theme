@@ -1,26 +1,41 @@
 {
     "name": "spotify-color-theme",
     "displayName": "Spotify Color Theme",
-    "description": "Theme for vscode inspired by the colors of spotifyColor inspired by Spotify",
+    "description": "Theme for vscode inspired by the colors of Spotify",
     "version": "1.2.7",
-    "publisher": "oguhpereira",
+    "license": "MIT",
+    "scripts": {
+        "build": "node ./scripts/build.js",
+        "lint": "node ./scripts/lint.js",
+        "package": "vsce package -o ./bin/dracula.vsix",
+        "vscode:prepublish": "npm run build",
+        "vsce-publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.21.0"
     },
+    "bugs": {
+		"url": "https://github.com/dracula/visual-studio-code/issues"
+	},
     "categories": [
         "Themes"
+    ],
+    "maintainers": [
+        "Gustavo Pereira"
     ],
     "keywords": [
         "spotify",
         "theme",
-        "dark","Spotify","spotify-theme"
-        ],
-        "icon": "icon.png",
-        "galleryBanner": {
-            "color": "#181413",
-            "theme": "dark"
-        },
-        "repository": {
+        "dark",
+        "Spotify",
+        "spotify-theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#181413",
+        "theme": "dark"
+    },
+    "repository": {
         "type": "git",
         "url": "https://github.com/oguhpereira/vscode-spotify-theme"
     },
@@ -29,8 +44,25 @@
             {
                 "label": "Spotify",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Spotify-color-theme.json"
+                "path": "./theme/spotify.json"
+            },
+            {
+                "label": "Spotify Soft",
+                "uiTheme": "vs-dark",
+                "path": "./theme/spotify-soft.json"
             }
         ]
+    },
+    "publisher": "oguhpereira",
+    "devDependencies": {
+        "js-yaml": "^3.13.1",
+        "prettier": "^1.19.1",
+        "tinycolor2": "^1.4.1",
+        "vsce": "^1.71.0"
+    },
+    "__metadata": {
+        "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
+        "publisherDisplayName": "Dracula Theme",
+        "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
     }
 }
