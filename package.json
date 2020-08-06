@@ -2,7 +2,7 @@
     "name": "spotify-color-theme",
     "displayName": "Spotify Color Theme",
     "description": "Theme for vscode inspired by the colors of Spotify",
-    "version": "1.2.8",
+    "version": "1.2.9",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
