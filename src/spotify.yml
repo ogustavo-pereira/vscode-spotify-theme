@@ -51,23 +51,23 @@ colors:
 
   # Integrated Terminal Colors
   terminal.background: *SOFTBLACK
-  terminal.foreground: *FG
-  terminal.ansiBrightBlack: *COLOR8
-  terminal.ansiBrightRed: *COLOR9
-  terminal.ansiBrightGreen: *COLOR10
-  terminal.ansiBrightYellow: *COLOR11
-  terminal.ansiBrightBlue: *COLOR12
-  terminal.ansiBrightMagenta: *COLOR13
-  terminal.ansiBrightCyan: *COLOR14
-  terminal.ansiBrightWhite: *WHITE
-  terminal.ansiBlack: *BLACK
-  terminal.ansiRed: *RED
-  terminal.ansiGreen: *GREEN
-  terminal.ansiYellow: *COLOR3
-  terminal.ansiBlue: *COLOR4
-  terminal.ansiMagenta: *COLOR5
-  terminal.ansiCyan: *COLOR6
-  terminal.ansiWhite: *COLOR7
+  terminal.foreground:
+  terminal.ansiBrightBlack: 
+  terminal.ansiBrightRed:  
+  terminal.ansiBrightGreen: 
+  terminal.ansiBrightYellow: 
+  terminal.ansiBrightBlue: 
+  terminal.ansiBrightMagenta: 
+  terminal.ansiBrightCyan: 
+  terminal.ansiBrightWhite: 
+  terminal.ansiBlack: 
+  terminal.ansiRed: 
+  terminal.ansiGreen: 
+  terminal.ansiYellow: 
+  terminal.ansiBlue: 
+  terminal.ansiMagenta: 
+  terminal.ansiCyan: 
+  terminal.ansiWhite: 
 
   # Contrast Colors
   contrastBorder:                                                               # An extra border around elements to separate them from others for greater contrast
@@ -307,8 +307,8 @@ colors:
   # Status Bar Colors
   statusBar.background: *SOFTBLACK                                              # Standard Status Bar background color
   statusBar.foreground: *FG                                                     # Status Bar foreground color
-  statusBar.debuggingBackground: *RED                                           # Status Bar background color when a program is being debugged
-  statusBar.debuggingForeground: *SOFTBLACK                                     # Status Bar foreground color when a program is being debugged
+  statusBar.debuggingBackground: *GREEN                                           # Status Bar background color when a program is being debugged
+  statusBar.debuggingForeground: *WHITE                                     # Status Bar foreground color when a program is being debugged
   statusBar.noFolderBackground: *SOFTBLACK                                      # Status Bar foreground color when no folder is opened
   statusBar.noFolderForeground: *FG                                             # Status Bar background color when no folder is opened
   statusBarItem.activeBackground:                                               # Status Bar item background color when clicking
