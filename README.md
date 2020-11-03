@@ -1,10 +1,10 @@
-## Spotify Color Theme for Visual Studio Code
+## Spotify Theme for Visual Studio Code
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme)
 
 ![Spotify color theme](https://raw.githubusercontent.com/oguhpereira/vscode-spotify-theme/master/assets/screenshot.png)
 
-Color scheme inspired by the Spotify theme.
+Color scheme inspired by the Spotify.
 
 ## Installing
 
@@ -20,8 +20,9 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
  In case of any suggestion or problem of the theme please open an [issue](https://github.com/oguhpereira/vscode-spotify-theme/issues).
 
 ## Credits
+
 [Spotify](https://www.spotify.com/)
 
 ## Lisense
 
-MIT License
+[MIT License](https://github.com/oguhpereira/vscode-spotify-theme/blob/master/LICENSE)
