@@ -2,7 +2,7 @@
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/oguhpereira.spotify-color-theme.svg )](https://marketplace.visualstudio.com/items?itemName=oguhpereira.spotify-color-theme)
 
-![Spotify color theme](https://raw.githubusercontent.com/oguhpereira/vscode-spotify-theme/master/assets/screenshot.png)
+![spotify theme](https://github.com/oguhpereira/vscode-spotify-theme/blob/master/assets/demo.PNG?raw=true)
 
 Color scheme inspired by the Spotify.
 
