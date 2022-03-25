@@ -1,13 +1,13 @@
 {
-    "name": "spotify-color-theme",
-    "displayName": "Spotify Color Theme",
+    "name": "spotify-theme",
+    "displayName": "Spotify Theme",
     "description": "Theme for vscode inspired by the colors of Spotify",
-    "version": "1.2.9",
+    "version": "1.2.10",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
         "lint": "node ./scripts/lint.js",
-        "package": "vsce package -o ./bin/dracula.vsix",
+        "package": "vsce package -o ./bin/spotify.vsix",
         "vscode:prepublish": "npm run build",
         "vsce-publish": "vsce publish"
     },
@@ -15,7 +15,7 @@
         "vscode": "^1.21.0"
     },
     "bugs": {
-        "url": "https://github.com/dracula/visual-studio-code/issues"
+        "url": "https://github.com/oguhpereira/vscode-spotify-theme/issues"
     },
     "categories": [
         "Themes"
@@ -25,14 +25,14 @@
     ],
     "keywords": [
         "spotify",
-        "theme",
-        "dark",
         "Spotify",
-        "spotify-theme"
+        "spotify-theme",
+        "theme",
+        "dark"
     ],
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#1DB954",
+        "color": "#121212",
         "theme": "dark"
     },
     "repository": {
@@ -61,8 +61,7 @@
         "vsce": "^1.71.0"
     },
     "__metadata": {
-        "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-        "publisherDisplayName": "Dracula Theme",
-        "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
+        "publisherDisplayName": "Gustavo Pereira",
+        "publisherId": "e23cb69d-8a6e-6e56-8457-7b0f4e01eaac"
     }
 }
