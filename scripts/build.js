@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const generate = require('./generete');
+const generate = require('./generate');
 
 const THEME_DIR = path.join(__dirname, '..', 'theme');
 
