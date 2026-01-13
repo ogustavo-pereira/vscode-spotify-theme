@@ -55,7 +55,7 @@
     },
     "publisher": "oguhpereira",
     "devDependencies": {
-        "js-yaml": "^3.13.1",
+        "js-yaml": "^4.1.1",
         "prettier": "^1.19.1",
         "tinycolor2": "^1.4.1",
         "vsce": "^1.71.0"
